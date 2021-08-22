@@ -5,5 +5,8 @@ public class CharAndBoolean {
     char myUnicode = '\u0044';
        System.out.println(myChar);
        System.out.println(myUnicode);
+
+    
+
    }
 }
